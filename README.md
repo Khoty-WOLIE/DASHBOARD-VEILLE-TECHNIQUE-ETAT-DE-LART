@@ -4,6 +4,15 @@ Réalisez un dashboard et assurez une veille technique
 
 # Dashboard de Credit Scoring et Veille Technique - Prêt à Dépenser
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet7.PNG)
+
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DS_projet6.PNG)
+
+
 ## Contexte
 
 Je suis Data Scientist chez **"Prêt à dépenser"**, une entreprise qui propose des crédits à la consommation pour des clients ayant peu ou pas d'historique de prêt. Après avoir développé un modèle de **scoring crédit**, l’entreprise souhaite désormais rendre ce score accessible aux chargés de relation client via un **dashboard interactif** pour expliquer les décisions de crédit aux clients de façon transparente.
