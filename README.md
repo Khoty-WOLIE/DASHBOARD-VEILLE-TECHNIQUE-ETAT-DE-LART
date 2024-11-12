@@ -4,11 +4,11 @@ Réalisez un dashboard et assurez une veille technique
 
 # Dashboard de Credit Scoring et Veille Technique - Prêt à Dépenser
 
-## Aperçu de l'entreprise
+## Aperçu de l'entreprise 1
 
 ![Aperçu du site web](images/DS_projet7.PNG)
 
-## Aperçu de l'entreprise
+## Aperçu de l'entreprise 2
 
 ![Aperçu du site web](images/DS_projet6.PNG)
 
